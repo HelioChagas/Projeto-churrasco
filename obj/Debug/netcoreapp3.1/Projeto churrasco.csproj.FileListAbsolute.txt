@@ -1,0 +1,50 @@
+C:\Users\hchag\source\repos\Projeto churrasco\bin\Debug\netcoreapp3.1\Projeto churrasco.exe
+C:\Users\hchag\source\repos\Projeto churrasco\bin\Debug\netcoreapp3.1\Projeto churrasco.deps.json
+C:\Users\hchag\source\repos\Projeto churrasco\bin\Debug\netcoreapp3.1\Projeto churrasco.runtimeconfig.json
+C:\Users\hchag\source\repos\Projeto churrasco\bin\Debug\netcoreapp3.1\Projeto churrasco.runtimeconfig.dev.json
+C:\Users\hchag\source\repos\Projeto churrasco\bin\Debug\netcoreapp3.1\Projeto churrasco.dll
+C:\Users\hchag\source\repos\Projeto churrasco\bin\Debug\netcoreapp3.1\Projeto churrasco.pdb
+C:\Users\hchag\source\repos\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto churrasco.csproj.AssemblyReference.cache
+C:\Users\hchag\source\repos\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto_churrasco.Form1.resources
+C:\Users\hchag\source\repos\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto churrasco.csproj.GenerateResource.cache
+C:\Users\hchag\source\repos\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto churrasco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hchag\source\repos\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto churrasco.AssemblyInfoInputs.cache
+C:\Users\hchag\source\repos\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto churrasco.AssemblyInfo.cs
+C:\Users\hchag\source\repos\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto churrasco.csproj.CoreCompileInputs.cache
+C:\Users\hchag\source\repos\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto churrasco.dll
+C:\Users\hchag\source\repos\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto churrasco.pdb
+C:\Users\hchag\source\repos\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto churrasco.genruntimeconfig.cache
+C:\Users\hchag\source\repos\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto_churrasco.Properties.Resources.resources
+D:\Projeto churrasco\bin\Debug\netcoreapp3.1\Projeto churrasco.exe
+D:\Projeto churrasco\bin\Debug\netcoreapp3.1\Projeto churrasco.deps.json
+D:\Projeto churrasco\bin\Debug\netcoreapp3.1\Projeto churrasco.runtimeconfig.json
+D:\Projeto churrasco\bin\Debug\netcoreapp3.1\Projeto churrasco.runtimeconfig.dev.json
+D:\Projeto churrasco\bin\Debug\netcoreapp3.1\Projeto churrasco.dll
+D:\Projeto churrasco\bin\Debug\netcoreapp3.1\Projeto churrasco.pdb
+D:\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto churrasco.csprojAssemblyReference.cache
+D:\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto_churrasco.Form1.resources
+D:\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto_churrasco.Properties.Resources.resources
+D:\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto churrasco.csproj.GenerateResource.cache
+D:\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto churrasco.AssemblyInfoInputs.cache
+D:\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto churrasco.AssemblyInfo.cs
+D:\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto churrasco.csproj.CoreCompileInputs.cache
+D:\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto churrasco.dll
+D:\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto churrasco.pdb
+D:\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto churrasco.genruntimeconfig.cache
+C:\Users\hchag\Documents\Desenvolvimento de sistemas\Csharp\Projeto churrasco\bin\Debug\netcoreapp3.1\Projeto churrasco.exe
+C:\Users\hchag\Documents\Desenvolvimento de sistemas\Csharp\Projeto churrasco\bin\Debug\netcoreapp3.1\Projeto churrasco.deps.json
+C:\Users\hchag\Documents\Desenvolvimento de sistemas\Csharp\Projeto churrasco\bin\Debug\netcoreapp3.1\Projeto churrasco.runtimeconfig.json
+C:\Users\hchag\Documents\Desenvolvimento de sistemas\Csharp\Projeto churrasco\bin\Debug\netcoreapp3.1\Projeto churrasco.runtimeconfig.dev.json
+C:\Users\hchag\Documents\Desenvolvimento de sistemas\Csharp\Projeto churrasco\bin\Debug\netcoreapp3.1\Projeto churrasco.dll
+C:\Users\hchag\Documents\Desenvolvimento de sistemas\Csharp\Projeto churrasco\bin\Debug\netcoreapp3.1\Projeto churrasco.pdb
+C:\Users\hchag\Documents\Desenvolvimento de sistemas\Csharp\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto churrasco.csproj.AssemblyReference.cache
+C:\Users\hchag\Documents\Desenvolvimento de sistemas\Csharp\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto_churrasco.Form1.resources
+C:\Users\hchag\Documents\Desenvolvimento de sistemas\Csharp\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto_churrasco.Properties.Resources.resources
+C:\Users\hchag\Documents\Desenvolvimento de sistemas\Csharp\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto churrasco.csproj.GenerateResource.cache
+C:\Users\hchag\Documents\Desenvolvimento de sistemas\Csharp\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto churrasco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hchag\Documents\Desenvolvimento de sistemas\Csharp\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto churrasco.AssemblyInfoInputs.cache
+C:\Users\hchag\Documents\Desenvolvimento de sistemas\Csharp\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto churrasco.AssemblyInfo.cs
+C:\Users\hchag\Documents\Desenvolvimento de sistemas\Csharp\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto churrasco.csproj.CoreCompileInputs.cache
+C:\Users\hchag\Documents\Desenvolvimento de sistemas\Csharp\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto churrasco.dll
+C:\Users\hchag\Documents\Desenvolvimento de sistemas\Csharp\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto churrasco.pdb
+C:\Users\hchag\Documents\Desenvolvimento de sistemas\Csharp\Projeto churrasco\obj\Debug\netcoreapp3.1\Projeto churrasco.genruntimeconfig.cache
